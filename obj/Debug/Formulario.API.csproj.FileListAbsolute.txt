@@ -1,0 +1,10 @@
+C:\Users\Aluno\Desktop\tds\bin\Debug\tds.exe.config
+C:\Users\Aluno\Desktop\tds\bin\Debug\tds.exe
+C:\Users\Aluno\Desktop\tds\bin\Debug\tds.pdb
+C:\Users\Aluno\Desktop\tds\obj\Debug\Formulario.API.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\tds\obj\Debug\tds.Form1.resources
+C:\Users\Aluno\Desktop\tds\obj\Debug\tds.Properties.Resources.resources
+C:\Users\Aluno\Desktop\tds\obj\Debug\Formulario.API.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\tds\obj\Debug\tds.exe
+C:\Users\Aluno\Desktop\tds\obj\Debug\tds.pdb
+C:\Users\Aluno\Desktop\tds\obj\Debug\tds.Form2.resources
